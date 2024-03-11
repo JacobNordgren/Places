@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- this is the public token - does not offer access to any secrets. just fonts and images -->
+    <string name="mapbox_access_token" translatable="false" tools:ignore="UnusedResources">pk.eyJ1IjoibTRnZzEzIiwiYSI6ImNsdG0zazJnNTBkcmwycm84aXM2aXllYjgifQ.xumVPYOSL9sTIgAcenYDfA</string>
+</resources>
